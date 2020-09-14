@@ -3,6 +3,7 @@
     @drop.stop="onDrop"
     @dragover.prevent
     @dragenter.prevent
+    @click="$emit('open-task')"
   >
     <slot/>
   </div>
