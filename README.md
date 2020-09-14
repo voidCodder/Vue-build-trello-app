@@ -1,2 +1,2 @@
 <h1>Clon Trello application Vue.js</h1>
-<img src="pic/app.png" alt="Trello application">
+<img src="main.png" alt="Trello application">
